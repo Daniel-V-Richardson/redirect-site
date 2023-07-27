@@ -14,7 +14,7 @@ const App = () => {
   }, [navigate]);
 
   return (
-    <div>
+    <div className='app'>
       <h1>Redirecting...</h1>
       <p>You will be redirected to Netflix Clone in 2 seconds.</p>
     </div>
